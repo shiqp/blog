@@ -14,13 +14,13 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+#since: 2017
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: snowflake-o
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 
 # ---------------------------------------------------------------
@@ -48,9 +48,9 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
   archives: /archives/
-  tags: /tags/
+  about: /about/
+  #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404/
 
@@ -126,7 +126,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/me.png
 
 # Table Of Contents in the Sidebar
 toc:
