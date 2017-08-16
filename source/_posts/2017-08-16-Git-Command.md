@@ -9,9 +9,9 @@ categories: Git Notes
 | ------- | ------- |
 | git init | |
 | git status | See what the current state of our project is. |
-| git add . | |
-| git add -A | |
-| git add -a | |
+| git add . | Stage new and modified files, without deleted files. |
+| git add -u | Stage deleted and modified files, without new files. |
+| git add -A | Stage new, deleted and modified files. |
 | git rm **file name** | |
 | git commit -m **msg** | |
 | git log | A journal that remembers all the changes we've commited so far. |
