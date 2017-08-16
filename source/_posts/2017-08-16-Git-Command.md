@@ -15,7 +15,7 @@ categories: Git Notes
 | git rm `file name` | |
 | git commit -m `msg` | |
 | git log | A journal that remembers all the changes we've commited so far. |
-| git remote add origin `git repo address` | |
+| git remote add origin `repo address` | |
 | git push -u origin master | The '-u' tells Git to remember the parameters so that we can simply run 'git push' and Git will know what to do. |
 | git pull origin master | |
 | git diff HEAD/--staged | |
