@@ -1,5 +1,5 @@
 ---
-title: 2017-08-16-Git-Command
+title: Git Command
 date: 2017-08-16 22:45:12
 tags:
 categories: Git Notes
