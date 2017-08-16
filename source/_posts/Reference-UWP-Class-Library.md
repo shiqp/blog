@@ -1,9 +1,9 @@
 ---
-title: UWP Notes
+title: Reference UWP Class Library
 date: 2017-08-16 15:27:01
-categories: UWP
+categories: UWP Notes
 ---
-# Reference UWP Class Library
+# How to reference a UWP class library with XAML files?
 For a UWP class library with XAML files, if we want to reference the dll in our UWP projects, we need not only the dll itself but also the `.xr.xml` file and some other files. Because in UWP environment, the resources are no longer embedded in the assembly but are placed next to the dll as content.
 The files we need to reference:
 

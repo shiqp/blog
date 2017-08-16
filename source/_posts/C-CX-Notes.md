@@ -1,7 +1,7 @@
 ---
 title: C++/CX Notes
 date: 2017-08-15 16:32:55
-categories: Programming
+categories: Programming Language
 ---
 [C++/CX](https://docs.microsoft.com/en-us/cpp/cppcx/visual-c-language-reference-c-cx) is a language extension for C++ compilers from Microsoft that enables C++ programmers to write programs for the new Windows Runtime platform.
 
