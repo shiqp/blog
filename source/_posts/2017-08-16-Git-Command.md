@@ -15,8 +15,9 @@ categories: Git Notes
 | git rm `file name` | |
 | git commit -m `msg` | |
 | git log | A journal that remembers all the changes we've commited so far. |
+| git log --pretty=`type`| The `type` can be oneline, short, full or fuller. |
 | git remote add origin `repo address` | |
-| git push -u origin master | The '-u' tells Git to remember the parameters so that we can simply run 'git push' and Git will know what to do. |
+| git push -u origin master | The `-u` tells Git to remember the parameters so that we can simply run 'git push' and Git will know what to do. |
 | git pull origin master | |
 | git diff HEAD/--staged | |
 | git reset `file name` | Unstage files. |
